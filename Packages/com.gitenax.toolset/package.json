@@ -1,0 +1,13 @@
+{
+  "name": "com.gitenax.toolset",
+  "version": "0.0.1",
+  "displayName": "Gitenax Toolset",
+  "description": "Набор утилит и вспомогательных скриптов для ускорения повседневной работы в Unity.",
+  "unity": "2021.3",
+  "license": "MIT",
+  "author": {
+    "name": "Gitenax",
+    "url": "https://github.com/Gitenax"
+  },
+  "dependencies": {}
+}
