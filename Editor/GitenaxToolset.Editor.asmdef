@@ -1,0 +1,18 @@
+{
+    "name": "GitenaxToolset.Editor",
+    "rootNamespace": "Gitenax.Toolset.Editor",
+    "references": [
+        "GUID:d28e03dde5b26ee4babb9f2b34bdfac2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
